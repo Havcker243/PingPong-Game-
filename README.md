@@ -1,4 +1,3 @@
-
 # Pong Game on FPGA
 
 ## Date
@@ -38,7 +37,7 @@ This project presents an FPGA-based Pong game, taking inspiration from the iconi
 
 To play the game:
 
-1. Start the Vivado program on your computer.
+1. Please clone the folder from this github repo
 2. Run `./gen.sh` in the terminal to load the game onto the FPGA board.
 3. Connect the FPGA board to your computer via USB for programming and data transfer.
 4. Attach the FPGA board to a monitor using a VGA cable for game display.
